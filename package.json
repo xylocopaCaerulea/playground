@@ -1,0 +1,19 @@
+{
+  "name": "playground",
+  "version": "0.1.0",
+  "description": "repo to play around",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xylocopaCaerulea/playground.git"
+  },
+  "author": "Taylor Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xylocopaCaerulea/playground/issues"
+  },
+  "homepage": "https://github.com/xylocopaCaerulea/playground#readme"
+}
